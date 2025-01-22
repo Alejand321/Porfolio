@@ -38,6 +38,8 @@ const About = () => {
         <Skills skill="Django" />
         <Skills skill="Git" />
         <Skills skill="Github" />
+        <Skills skill="Postgres" />
+        <Skills skill="MongoDB" />
         
       </div>
     </>
